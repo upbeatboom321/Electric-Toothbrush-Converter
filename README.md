@@ -1,6 +1,6 @@
 # Electric-Toothbrush-Converter
 
-Project Overview:
+# Project Overview:
 
 This project explores the design of a compact motor driven vibration mechanism that converts a standard manual toothbrush into a high frequency electric toothbrush.
 
