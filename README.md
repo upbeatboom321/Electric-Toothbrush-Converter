@@ -16,7 +16,7 @@ The challenge is efficiently transmitting rotation from the motor to the brush h
 
 - Target frequency: [200 to 300 Hz]
 - Target rotational speed: [12000 to 18000 RPM]
-- Power source: [3.7 V LiPo or 2x AAA]
+- Power source:[ To be determined]
 - Compact handheld form factor
 - Replaceable manual toothbrush compatibility
 - Safe and comfortable vibration amplitude
