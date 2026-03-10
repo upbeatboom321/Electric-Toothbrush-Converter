@@ -1,68 +1,69 @@
 # Iteration Log
 
-## Version 1
-**Date:** [Insert date]
+## Test 1
+**Date:** March 10 2026
 
 **Build description:**  
-[Briefly describe what this version physically is]
+Basic attempt to see if this type of angular oscillation is effective using basic components. Motor was placed into the motor chassis with a motor top on the shaft. The link bar is then placed with removable caps to make sure the link bar stays in place.
 
 **Configuration:**  
-- Motor: [Insert motor name/specs]
-- Power source: [Insert battery/voltage]
-- Crank radius: [Insert value]
-- Material: [Insert material]
-- Brush attachment: [Insert description]
+- Motor: Generic 5-6V DC motor
+- Power source: 9V battery
+- Crank radius: 0.3mm 
+- Material: PLA plastic
+- Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
 
 **Test performed:**  
-[Describe what you tested]
+All piecies were in their respective position and the purpose of this test is to determine the effectiveness of this type of mechanism by seeing it preform without the brush attached.
 
 **Observations:**  
-- [Observation 1]
-- [Observation 2]
-- [Observation 3]
+- The caps that go on the moving joints to make sure the link bar dooesn't shift vertically were too loose causing a rattling sound and occasional displacement of the part
+- The joint closest to the brush (joint 1) has more play then preffered and would cause a rattling sound
+- The contraption got stuck before startup a couple of times however after some wear there were no other instances 
+- The slightest bit of horizontal resistance would cuase the whole mechanism to stop
 
 **Problems identified:**  
-- [Problem 1]
-- [Problem 2]
+- Loose caps
+- Too much clearance in joint 1 on the link bar
 
 ---
 
-## Version 2
-**Date:** [Insert date]
+## Test 2
+**Date:** 
 
 **Changes from Version 1:**  
-- [Change 1]
-- [Change 2]
-- [Change 3]
+- Inner cap radius to 2.95mm (prev 3.0mm)
+- Outer cap radius to 4.1mm (prev 4.0mm)
 
 **Reason for changes:**  
-[Explain why these changes were made]
+To decrease the rattling sound and for a more tighter fit of the caps so the link bar stays in place
 
 **Build description:**  
-[Briefly describe what this version physically is]
+ Motor was placed into the motor chassis with a motor top on the shaft. The link bar is then placed with removable caps to make sure the link bar stays in place.
+
 
 **Configuration:**  
-- Motor: [Insert motor name/specs]
-- Power source: [Insert battery/voltage]
-- Crank radius: [Insert value]
-- Material: [Insert material]
-- Brush attachment: [Insert description]
+- Motor: Generic 5-6V DC motor
+- Power source: 9V battery
+- Crank radius: 0.3mm 
+- Material: PLA plastic
+- Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
 
 **Test performed:**  
-[Describe what you tested]
+Motor is given power to see the mechianism in action to determine it's effectiveness.
 
 **Observations:**  
-- [Observation 1]
-- [Observation 2]
-- [Observation 3]
+- Motor top get stuck when the crank pin is farthest away form joint 1
+- There is a little bit of friction in joint 1
+- This is friction when the link bar rests on the platform where the pin of joint 1 is
 
 **Problems identified:**  
-- [Problem 1]
-- [Problem 2]
+- The link bar's length is short
+- Decrease cap radius a little but not less than form Test 1
 
 ---
 
-## Version 3
+## Test 3
 **Date:** [Insert date]
 
 **Changes from Version 2:**  
@@ -97,7 +98,7 @@
 
 ---
 
-## Version 4
+## Test 4
 **Date:** [Insert date]
 
 **Changes from Version 3:**  
