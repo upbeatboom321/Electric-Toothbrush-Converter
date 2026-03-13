@@ -29,7 +29,7 @@ All piecies were in their respective position and the purpose of this test is to
 ---
 
 ## Test 2
-**Date:** 
+**Date:** March 10 2026
 
 **Changes from Version 1:**  
 - Inner cap radius to 2.95mm (prev 3.0mm)
@@ -54,17 +54,16 @@ Motor is given power to see the mechianism in action to determine it's effective
 
 **Observations:**  
 - Motor top get stuck when the crank pin is farthest away form joint 1
-- There is a little bit of friction in joint 1
 - This is friction when the link bar rests on the platform where the pin of joint 1 is
 
 **Problems identified:**  
 - The link bar's length is short
-- Decrease cap radius a little but not less than form Test 1
+- Resting surface for link bar near joint 1 is rough
 
 ---
 
 ## Test 3
-**Date:** [Insert date]
+**Date:** March 12 2026
 
 **Changes from Version 2:**  
 - [Change 1]
