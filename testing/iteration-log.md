@@ -1,45 +1,33 @@
 # Iteration Log
 
-## Test 1
-**Date:** March 10 2026
+## Initial Mechanism Test
+**Date:** March 22 2026
 
 **Build description:**  
-Basic attempt to see if this type of angular oscillation is effective using basic components. Motor was placed into the motor chassis with a motor top on the shaft. The link bar is then placed with removable caps to make sure the link bar stays in place.
+Basic attempt to see the effectiveness of the vibration motor by attaching it to a link bar with the toothbrush at the other end
 
 **Configuration:**  
-- Motor: Generic 5-6V DC motor
-- Power source: 9V battery
-- Crank radius: 0.3mm 
+- Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
+- Power source: 5V
 - Material: PLA plastic
 - Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
 
 **Test performed:**  
-All piecies were in their respective position and the purpose of this test is to determine the effectiveness of this type of mechanism by seeing it preform without the brush attached.
+Motor and toothbrush were attached to the link bar with power was given to the motor to see how well the brush head will vibrate.
 
 **Observations:**  
-- The caps that go on the moving joints to make sure the link bar dooesn't shift vertically were too loose causing a rattling sound and occasional displacement of the part
-- The joint closest to the brush (joint 1) has more play then preffered and would cause a rattling sound
-- The contraption got stuck before startup a couple of times however after some wear there were no other instances 
-- The slightest bit of horizontal resistance would cuase the whole mechanism to stop
+- The brush head was vibration quite well with this initial test with it being comparable to a cheap sonic toothbrush
+- Vibration was transffered to the whole brush 
 
 **Problems identified:**  
-- Loose caps
-- Too much clearance in joint 1 on the link bar
+- Whole brush was vibrating meaning less energy is being transfferd to the brush head, however this is still effective as enough energy is transffered to the brush head. If issue needs to be addressed it will be done so during the case prototyping phase.
 
 ---
 
-## Test 2
-**Date:** March 10 2026
-
-**Changes from Version 1:**  
-- Inner cap radius to 2.95mm (prev 3.0mm)
-- Outer cap radius to 4.1mm (prev 4.0mm)
-
-**Reason for changes:**  
-To decrease the rattling sound and for a more tighter fit of the caps so the link bar stays in place
+##  ETC Case Version 1
+**Date:** March 28 2026
 
 **Build description:**  
- Motor was placed into the motor chassis with a motor top on the shaft. The link bar is then placed with removable caps to make sure the link bar stays in place.
 
 
 **Configuration:**  
@@ -49,29 +37,32 @@ To decrease the rattling sound and for a more tighter fit of the caps so the lin
 - Material: PLA plastic
 - Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
 
-**Test performed:**  
-Motor is given power to see the mechianism in action to determine it's effectiveness.
-
 **Observations:**  
-- Motor top get stuck when the crank pin is farthest away form joint 1
-- This is friction when the link bar rests on the platform where the pin of joint 1 is
+- Back lid is not able to firmly attch to the body and contact point have broken off due to being to thin
+- Nearing the top of the Main body, the 3d printer has difficulty printing the top portion without any supports
+- The mechanical switch and link bar locations are too close together casing interference
+- The link bar is not able to get into it's positon because of tight fitting
+- Battery postive contact point keeps slipping from it's intended postion
+- Opening hatch for brush is too dificult to open
 
 **Problems identified:**  
-- The link bar's length is short
-- Resting surface for link bar near joint 1 is rough
+- Back lid contact points need to be changed for more clearance and strength
+- A support structure will be designed for easy printing of top portion on Main body
+- The whole case will need to be bigger to accomadate these changes so no part will interfere with each other
+- Link bar will need to be redesigned to fit into desired location
+- Battery postive contact point will need to be widened
+- Opening hatch will be redesigned to require less effort
 
 ---
 
 ## Test 3
-**Date:** March 12 2026
+**Date:** 
 
-**Changes from Version 2:**  
+**Changes from Version 1 with reasoning:**  
 - [Change 1]
 - [Change 2]
 - [Change 3]
 
-**Reason for changes:**  
-[Explain why these changes were made]
 
 **Build description:**  
 [Briefly describe what this version physically is]
