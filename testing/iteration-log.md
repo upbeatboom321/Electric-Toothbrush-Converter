@@ -28,12 +28,11 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 **Date:** March 28 2026
 
 **Build description:**  
-
+[will be explained]
 
 **Configuration:**  
-- Motor: Generic 5-6V DC motor
-- Power source: 9V battery
-- Crank radius: 0.3mm 
+- Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
+- Power source: 3xAAA batteries in series
 - Material: PLA plastic
 - Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
 
@@ -43,7 +42,7 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 - The mechanical switch and link bar locations are too close together casing interference
 - The link bar is not able to get into it's positon because of tight fitting
 - Battery postive contact point keeps slipping from it's intended postion
-- Opening hatch for brush is too dificult to open
+- Opening hatch for brush is too dificult to open and close
 
 **Problems identified:**  
 - Back lid contact points need to be changed for more clearance and strength
@@ -52,6 +51,7 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 - Link bar will need to be redesigned to fit into desired location
 - Battery postive contact point will need to be widened
 - Opening hatch will be redesigned to require less effort
+- The hole for the brush it too tight
 
 ---
 
