@@ -28,13 +28,13 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 **Date:** March 28 2026
 
 **Build description:**  
-[will be explained]
+This case consists of 3 parts that are all individually printed. First we have the Main body where the toothbrush, battery, switch and vibration motor are to be installed in. The Main body has an opening hatch using a hinge to open and insert you toothbrush. Second we have the Back lid which will allow easy access to the batteries, switch and motor. Lastly we have the link bar which will attach to the toothbrush and will be mounted inside the Main body. This is a very simple design only to accomade the minimum requirements to make this project succeed.
 
 **Configuration:**  
 - Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
 - Power source: 3xAAA batteries in series
 - Material: PLA plastic
-- Brush attachment: Semi-cicrle like clip that goes around the midpoint of the bursh
+- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
 
 **Observations:**  
 - Back lid is not able to firmly attch to the body and contact point have broken off due to being to thin
@@ -43,6 +43,7 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 - The link bar is not able to get into it's positon because of tight fitting
 - Battery postive contact point keeps slipping from it's intended postion
 - Opening hatch for brush is too dificult to open and close
+- Difficulty putting the battery in
 
 **Problems identified:**  
 - Back lid contact points need to be changed for more clearance and strength
@@ -52,6 +53,7 @@ Motor and toothbrush were attached to the link bar with power was given to the m
 - Battery postive contact point will need to be widened
 - Opening hatch will be redesigned to require less effort
 - The hole for the brush it too tight
+- There is too much material in the back causing the battery not to fit
 
 ---
 
