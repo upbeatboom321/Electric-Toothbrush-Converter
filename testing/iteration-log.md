@@ -60,7 +60,7 @@ All pieces were put together to see if all parts and components fit as intended.
 ---
 
 ## Version 2
-**Date:** 
+**Date:** March 30 2026
 
 **Changes from Version 1 with reasoning:**  
 - Back lid contact point design changed: becuase previous design was weak and broke eaisily
