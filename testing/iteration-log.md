@@ -98,35 +98,58 @@ All pieces were put together to see if all parts and components fit as intended.
 
 ---
 
-## Test 4
-**Date:** [Insert date]
+## Version 3
+**Date:** April 4 2026
 
-**Changes from Version 3:**  
-- [Change 1]
-- [Change 2]
-- [Change 3]
+**Changes from Version 2:**  
+- Thickened Back lid: to make it stronger
+- Gave more room for the opeing hatch mechanism: so there is less of a struggle to open it after printing it
+- Made more space for the link bar: for it to fit
+- Added a fillet to the battery positive contact point: to make it eaiser to remove becuase there was difficulty before
 
-**Reason for changes:**  
-[Explain why these changes were made]
 
 **Build description:**  
-[Briefly describe what this version physically is]
+This case consists of 3 parts that are all individually printed. First we have the Main body where the toothbrush, battery, switch and vibration motor are to be installed in. The Main body has an opening hatch using a hinge to open and insert you toothbrush. Second we have the Back lid which will allow easy access to the batteries, switch and motor. Lastly we have the link bar which will attach to the toothbrush and will be mounted inside the Main body. This is a very simple design only to accomade the minimum requirements to make this project succeed.
 
 **Configuration:**  
-- Motor: [Insert motor name/specs]
-- Power source: [Insert battery/voltage]
-- Crank radius: [Insert value]
-- Material: [Insert material]
-- Brush attachment: [Insert description]
+- Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
+- Power source: 3xAAA batteries in series
+- Material: PLA plastic
+- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
 
 **Test performed:**  
-[Describe what you tested]
+All pieces were put together to see if all parts and components fit as intended. The motor is then turned on to see how well the vibration is transffered throught the link bar into the brush.
 
 **Observations:**  
-- [Observation 1]
-- [Observation 2]
-- [Observation 3]
+- Counld not fit the link bar into position
+- The Main body was vibrating quite a bit
 
 **Problems identified:**  
-- [Problem 1]
-- [Problem 2]
+- There was room for the link bar in its desired postiion but I couldn't get it into their becuase the surrounding area was tight
+- Too much surface contact between the link bar and main body
+
+- ---
+
+## Test 4
+**Date:** April 6 2026
+
+**Changes from Version 3:**  
+- Side areas around the link bar were shortened: so that the link bar can fit
+- Small pillars were added were the link bar made contact with the main body: to reduce overall surface friction
+
+**Build description:**  
+This case consists of 3 parts that are all individually printed. First we have the Main body where the toothbrush, battery, switch and vibration motor are to be installed in. The Main body has an opening hatch using a hinge to open and insert you toothbrush. Second we have the Back lid which will allow easy access to the batteries, switch and motor. Lastly we have the link bar which will attach to the toothbrush and will be mounted inside the Main body. This is a very simple design only to accomade the minimum requirements to make this project succeed.
+
+**Configuration:**  
+- Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
+- Power source: 3xAAA batteries in series
+- Material: PLA plastic
+- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
+
+**Test performed:**  
+All pieces were put together to see if all parts and components fit as intended. The motor is then turned on to see how well the vibration is transffered throught the link bar into the brush.
+
+**Observations:**  
+- Everything fit well in their desired positions.
+---
+
