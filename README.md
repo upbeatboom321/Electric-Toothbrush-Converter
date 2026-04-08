@@ -91,3 +91,13 @@ This project will use CAD and 3D printing to develop the mechanism and housing.
 - Easy disassembly for testing and iteration
 
 ---
+
+## Current Specifications and Version
+
+**Configuration:**  
+- Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
+- Power source: 3xAAA batteries in series
+- Material: PLA plastic
+- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
+
+Current: Version 4
