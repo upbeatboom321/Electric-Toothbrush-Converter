@@ -10,13 +10,12 @@ The goal is to design a mechanically efficient system that either: 1) produces s
 
 Commercial electric toothbrushes are often expensive and proprietary. This project investigates whether a removable insert style handle can convert a standard manual toothbrush into a high frequency vibrating toothbrush using a compact DC motor system.
 
-The challenge is efficiently transmitting rotation from the motor to the brush head without excessive damping or energy loss.
+The challenge is efficiently transmitting vibration from the motor to the brush head without excessive damping or energy loss.
 
 ## Design Requirements
 
-- Target frequency: [200 to 300 Hz]
-- Target rotational speed: [12000 to 18000 RPM]
-- Power source:[ To be determined]
+- Target vibration speed: 8000-20000RPM
+- Power source: 3xAAA batteries in series
 - Compact handheld form factor
 - Replaceable manual toothbrush compatibility
 - Safe and comfortable vibration amplitude
@@ -53,10 +52,9 @@ The mechanism is intended to be 3D printed for rapid prototyping and testing.
 ### Current Design Notes
 
 - Motion type: Vibration motor
-- Estimated crank radius: [enter value]
-- Estimated brush tip movement: [enter value]
-- Material: [PLA, PETG, ABS, nylon, etc.]
-- Mounting method: [press fit, screws, adhesive, etc.]
+- Estimated motor vibration with brush: 8000-20000RPM
+- Material: PLA plastic
+- Mounting method: Press fit
 
 ---
 
@@ -64,10 +62,9 @@ The mechanism is intended to be 3D printed for rapid prototyping and testing.
 
 ### Planned Components
 
-- DC motor: [model or type]
-- Battery: [type and voltage]
-- Switch: [on off or push button]
-- Motor control: [direct power or PWM]
+- Battery: 3xAAA batteries in series (4.5v)
+- Switch: On off switch
+- Motor control: direct power
 
 ### Electrical Goals
 
@@ -91,6 +88,8 @@ This project will use CAD and 3D printing to develop the mechanism and housing.
 - Easy disassembly for testing and iteration
 
 ---
+# Current
+---
 
 ## Current Specifications and Version
 
@@ -98,9 +97,44 @@ This project will use CAD and 3D printing to develop the mechanism and housing.
 - Motor: DC Coreless Vibration Motor 7x25mm, 1-6V Rated, 8000-20000RPM
 - Power source: 3xAAA batteries in series
 - Material: PLA plastic
-- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
+- Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the brush
 
 Current: Version 4
+---
+
+## Electrical Diagram
+
+The electric wiring for this project is quite simple represented by the following diagram.
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/edd6b2010d671f4ffcdd68ea69ed5afbbf082775/Electrical%20Diagram/ETC%20(Electrical%20Diagram).png)
+
+Inside the acutal Main body of the ETC, where the battery positive and negative terminal make contact with the plastic, small pieced of metal were placed there connected to wires. This allows for the battery to be replacable while ensuring proper connection.
+
+## Future corrections
+
+The ETC is effective and there is substancial vibration at the brush head, however the vibration mechanism is making too much noise. The link bar making contact with the surrounding enviroment is causing the vibration to transfer to the whole body and not just the brush head. The vibration motor is further dampened by the switch located in side the main body due to it being to big and making direct contact with the motor. The case is okay but becomes uncomfortable to hold when brushing the top teeth. The brush also turns while brushing causing there to be less overall vibration.
+
+Too make is product more effective: the material surrounding the link bar will need to make less contact while not degrading structual integrety, the switch will need to be smaller to give more room for the vibration motor, the casing will need to be more confortable to hold using ergonomic designs, the clip for the brush needs to be universal while firmly holding onto the any brush.
+
+## Final Photos
+
+![image alt]([https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/edd6b2010d671f4ffcdd68ea69ed5afbbf082775/Electrical%20Diagram/ETC%20(Electrical%20Diagram).png](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Final%20with%20everything).jpeg))
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Inside%20case%20with%20electrical%201).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Inside%20case%20with%20electrical%202).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Main%20body%20with%20Back%20lid).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Main%20body).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Simple%20vibration%20mechanism).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Vibration%20mechanism%20focus%20back).jpeg)
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/bc1a8993c03731aabfaebd6da449c6d216bca477/ETC%20Media/ETC%20(Vibration%20mechanism%20focus%20front).jpeg)
 
 
-![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/9e42604b5166976cff8e5b9e275d3c0a4209bb18/Electrical%20Diagram/ETC%20(Electrical%20Diagram).png)
+
+
+
