@@ -101,3 +101,6 @@ This project will use CAD and 3D printing to develop the mechanism and housing.
 - Brush attachment: Semi-cicrle like clip that goes around the lower midpoint of the bursh
 
 Current: Version 4
+
+
+![image alt](https://github.com/upbeatboom321/Electric-Toothbrush-Converter/blob/9e42604b5166976cff8e5b9e275d3c0a4209bb18/Electrical%20Diagram/ETC%20(Electrical%20Diagram).png)
